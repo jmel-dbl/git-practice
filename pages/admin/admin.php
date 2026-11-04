@@ -1349,7 +1349,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <td colspan="6"
                                 style="text-align:center;
                                        color:var(--text-muted);">
-                                No registrations found.
+                                No registrations found!
                             </td>
                         </tr>
                     <?php endif; ?>
