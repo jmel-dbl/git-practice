@@ -1435,7 +1435,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                    style="background:rgba(248,243,43,.1);
                                           padding:8px 12px;
                                           border-radius:8px;">
-                                    🖨️ Print Report
+                                    🖨️ Print Report.
                                 </a>
                             </td>
                         </tr>
